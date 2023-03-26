@@ -1,4 +1,4 @@
-# Neural-Networks-MLP
+# Neural-Networks
 
 Implementation of multilayer artificial neural networks(MLP and CNV) using keras for Cifar image classification.
 Read more inside the .ipynb notebook.
